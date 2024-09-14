@@ -7,4 +7,4 @@ Styled Components: For modular and scoped styling.
 CSS Flexbox: For responsive layout.
 
 ## Demo
-Live Demo []
+Live Demo [https://image-gallery-react-m86g.vercel.app/]
