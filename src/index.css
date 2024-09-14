@@ -1,0 +1,29 @@
+*{
+  margin:0;
+  padding:0;
+}
+.container{
+  border:2px solid white;
+  margin:50px;
+}
+
+.frame{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:30px;
+  background-color:black;
+  margin:20px;
+}
+img{
+  height:150px;
+  width:150px;
+  padding:8px;
+
+  
+}
+
+p{
+  color:white;
+  text-align: center;
+}
